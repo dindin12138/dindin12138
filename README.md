@@ -27,4 +27,4 @@
 
 ### Github Status
 
-![HaSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ding-zk&show_icons=true&theme=radical)
+![HaSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ding-zk&show_icons=true&theme=tokyonight)
