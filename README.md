@@ -8,4 +8,4 @@
 
 ### Github Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ding-zk)](https://github.com/anuraghazra/github-readme-stats)
+![Ding-zk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ding-zk)
