@@ -1,12 +1,14 @@
-### Hey there 👋
+<h2 align="center">👋 Hello! I'm HaSong</h2>
 
-Hi, I’m HaSong
+<p align="center">
+  <a href="https://www.ding-zk.top">Blog</a> •
+  <a href="https://www.yuque.com/ding-zk">YuQue</a>
+</p>
 
 - 👀 I’m interested in tossing Linux
 - 🌱 I’m currently learning JVM and Big Data
 - 💞️ I’m looking to collaborate on ...
 - 💬 Ask me about anything [here](https://github.com/ding-zk/ding-zk/issues)
-- ➡️ Check out my website
 
 ### Languages and Tools
 
