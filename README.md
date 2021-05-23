@@ -20,8 +20,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/git.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/linux.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ding-zk&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats-ding-zk.vercel.app/api/top-langs/?username=ding-zk&layout=compact&theme=nord)
 
 ### Github Status
 
-![HaSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ding-zk&show_icons=true&theme=nord)
+![HaSong's GitHub stats](https://github-readme-stats-ding-zk.vercel.app/api?username=ding-zk&show_icons=true&theme=nord)
