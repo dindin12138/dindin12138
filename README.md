@@ -1,8 +1,8 @@
-<h2 align="center">👋 Hello! I'm HaSong</h2>
+<h2 align="center">👋 Hello! I'm Din</h2>
 
 <p align="center">
-  <a href="https://www.ding-zk.top">Blog</a> •
-  <a href="https://www.yuque.com/ding-zk">YuQue</a>
+  <a href="https://www.din12138.top">Blog</a> •
+  <a href="https://www.yuque.com/din12138">YuQue</a>
 </p>
 
 - 👀 I’m interested in tossing Linux
@@ -12,16 +12,16 @@
 
 ### Languages and Tools
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/java.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/cpp.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/python.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/rust.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/mysql.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/git.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/ding-zk/CDN@master/LanguagesAndTools/linux.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/dindin12138/CDN@master/LanguagesAndTools/java.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/dindin12138/CDN@master/LanguagesAndTools/cpp.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/dindin12138/CDN@master/LanguagesAndTools/python.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/dindin12138/CDN@master/LanguagesAndTools/rust.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/dindin12138/CDN@master/LanguagesAndTools/mysql.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/dindin12138/CDN@master/LanguagesAndTools/git.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/dindin12138/CDN@master/LanguagesAndTools/linux.png"></code>
 
-![Top Langs](https://github-readme-stats-ding-zk.vercel.app/api/top-langs/?username=ding-zk&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats-ding-zk.vercel.app/api/top-langs/?username=dindin12138&layout=compact&theme=nord)
 
 ### Github Status
 
-![HaSong's GitHub stats](https://github-readme-stats-ding-zk.vercel.app/api?username=ding-zk&show_icons=true&theme=nord)
+![HaSong's GitHub stats](https://github-readme-stats-ding-zk.vercel.app/api?username=dindin12138&show_icons=true&theme=nord)
