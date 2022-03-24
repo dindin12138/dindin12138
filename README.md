@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.din12138.top">Blog</a> •
-  <a href="https://www.yuque.com/din12138">YuQue</a>
+  <a href="https://www.yuque.com">YuQue</a>
 </p>
 
 - 👀 I’m interested in tossing Linux
